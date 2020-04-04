@@ -1,0 +1,13 @@
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\bin\Debug\SAMPLE.schema
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\bin\Debug\CartridgeBrowser2.exe.config
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\bin\Debug\CartridgeBrowser2.exe
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\bin\Debug\CartridgeBrowser2.pdb
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\bin\Debug\ObjectListView.dll
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\bin\Debug\ObjectListView.xml
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\obj\Debug\CartridgeBrowser2.Form1.resources
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\obj\Debug\CartridgeBrowser2.Properties.Resources.resources
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\obj\Debug\CartridgeBrowser2.csproj.GenerateResource.cache
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\obj\Debug\CartridgeBrowser2.csproj.CoreCompileInputs.cache
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\obj\Debug\CartridgeBrowser2.csproj.CopyComplete
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\obj\Debug\CartridgeBrowser2.exe
+C:\Users\Shaun Overton\source\repos\CartridgeBrowser2\CartridgeBrowser2\obj\Debug\CartridgeBrowser2.pdb
