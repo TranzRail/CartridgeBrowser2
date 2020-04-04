@@ -11,7 +11,7 @@ Notes:
 * The CRC32 file has gets this information from the filename recorded within the schema. The string should look like this "[4D1D5B40]". I personally use rapidcrc to hash my files prior to writing. 
 
 ## Screenshot
-![Main screen](https://github.com/TranzRail/CartridgeBrowser2/tree/master/CartridgeBrowser2/sample001.png)
+![Main screen](https://github.com/TranzRail/CartridgeBrowser2/blob/master/sample001.png)
 
 ## DISCLAIMER
 This program is probably buggy and is a poor example of programming. If you wish to make a fix or a change, submit a pull request.
